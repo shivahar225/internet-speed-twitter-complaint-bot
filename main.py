@@ -7,7 +7,7 @@ PROMISED_DOWN = 150
 PROMISED_UP = 10
 CHROME_DRIVER_PATH = '//*[@id="web"]/ol/li[1]/div/div[1]/h3/a'
 TWITTER_EMAIL = "shivahar225@gmail.com"
-TWITTER_PASSWORD = "SHIVAhar@$123!"
+TWITTER_PASSWORD = "SHI$123!"
 
 
 class InternetSpeedTwitterBot:
